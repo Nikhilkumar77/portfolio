@@ -12,3 +12,12 @@ Project Bolt is a modern frontend web application built with **Vite**, **React**
 
 ## 📁 Project Structure
 
+project/
+├── public/ # Static assets
+├── src/ # Source files
+│ ├── components/ # React components
+│ └── contexts/ # React context providers
+├── index.html # HTML entry
+├── package.json # NPM dependencies
+├── vite.config.ts # Vite configuration
+└── tailwind.config.js # Tailwind CSS config
