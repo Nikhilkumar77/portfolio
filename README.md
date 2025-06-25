@@ -1,6 +1,6 @@
-# Project Bolt
+# Portfolio
 
-Project Bolt is a modern frontend web application built with **Vite**, **React**, **TypeScript**, and **Tailwind CSS**. This project follows a clean architecture and uses component-based design.
+This project is a modern frontend web application built with **Vite**, **React**, **TypeScript**, and **Tailwind CSS**. This project follows a clean architecture and uses component-based design.
 
 ## 🚀 Features
 
